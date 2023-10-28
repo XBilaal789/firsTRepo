@@ -36,5 +36,3 @@ sum= 12+(5*2+3)
 print (sum)
 sum= 12+(5*(2+3))
 print (sum)
-
-
