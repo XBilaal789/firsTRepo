@@ -35,3 +35,13 @@ value_type = type(value)
 print(value_type)
 print(10 + 10)
 print("10" + "10")
+print("ABC" * 10)
+name = "Bilaal"
+address = "Headingley Campus, City, Leeds"
+contact_details = "Name123@gmail.com"
+
+print("name:", name)
+print("address:", address)
+print("contact Details:", contact_details)
+name_length =len(name)
+print("The length of your name is:", name_length)
