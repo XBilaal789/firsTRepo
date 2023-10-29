@@ -87,3 +87,6 @@ print (First_four)
 names = ["Terry", "John", "Michael", "Eric", "Terry", "Graham"]
 names [6:0] = ["tim", "Bill"]
 print (names)
+nums =[1,2,3] * 5
+for num in nums:
+    print(num)
